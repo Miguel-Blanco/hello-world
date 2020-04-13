@@ -1,7 +1,5 @@
- readme-edits
-# hello-world1
+Master
 # hello-world
-master
 
 educational
 
